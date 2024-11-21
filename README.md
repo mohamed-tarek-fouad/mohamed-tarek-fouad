@@ -2,6 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-tarek-fouad/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamed.tarek.fouad619@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-+201093163191-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+201093163191)
 
 ## 🚀 About Me
 
@@ -43,5 +44,8 @@ Passionate backend developer specializing in building scalable, secure, and high
 - 🔗 Blockchain enthusiast
 - 🎲 Strategy game lover
 - 🛠️ Hardware tinkerer
+
+## 📊 GitHub Stats
+![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical)
 
 **Let's connect and build something amazing together!** 🚀
