@@ -3,7 +3,7 @@
 ## 📞 Contact Information
 **Email**: mohamed.tarek.fouad619@gmail.com  
 **Phone**: +201093163191  
-**LinkedIn**: [Mohamed Tarek] www.linkedin.com/in/mohamed-tarek-fouad
+**LinkedIn**: www.linkedin.com/in/mohamed-tarek-fouad
 
 ## 🚀 Professional Experience
 
