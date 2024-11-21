@@ -33,7 +33,7 @@ Key Projects:
 
 Notable Projects:
 - **MindScape**: Mental health therapy app with secure therapist-user communication https://play.google.com/store/apps/details?id=com.mindscape.app&hl=en_NZ
-- **Gaimez**: E-commerce platform for laptop and console skins
+- **Gaimez**: E-commerce platform for laptop and console skins https://www.gaimiz.store/en
 - **The B Talk**: Doctor appointment booking platform https://thebtalkofficial.com/
 - **MommyVerse**: Mobile app for new mothers, developed with Node.js, Nest.js, MongoDB, Prisma
 - **Lolfantasy**: eSports tournament scheduling platform
@@ -43,9 +43,9 @@ Notable Projects:
 *July 2023 - December 2023 | Remote*
 
 - Enhanced ERP system for operational efficiency
-- Developed scalable backend architectures
+- Developed scalable backend architectures https://arabyplus.net/
 - Implemented security protocols
-- Created custom business solutions
+- Created custom business solutions 
 
 ### Backend Developer at Skylink  
 *September 2022 - December 2023 | Remote*
