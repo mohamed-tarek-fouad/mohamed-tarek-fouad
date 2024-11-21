@@ -44,7 +44,4 @@ Passionate backend developer specializing in building scalable, secure, and high
 - 🎲 Strategy game lover
 - 🛠️ Hardware tinkerer
 
-## 📊 GitHub Stats
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical)
-
 **Let's connect and build something amazing together!** 🚀
