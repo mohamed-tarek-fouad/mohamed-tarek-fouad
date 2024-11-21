@@ -1,12 +1,42 @@
 # 👋 Hello, I'm **Mohamed Tarek** – Backend Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-tarek-fouad/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamed.tarek.fouad619@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-+201093163191-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+201093163191)
+## 📞 Contact Information
+**Email**: mohamed.tarek.fouad619@gmail.com
+**Phone**: +201093163191
 
-## 🚀 About Me
+## 🚀 Professional Experience
 
-Passionate backend developer specializing in building scalable, secure, and high-performance backend systems. My expertise spans multiple languages and frameworks, enabling me to design innovative solutions to complex technical challenges.
+### Backend Developer at Runprof
+*December 2023 - Present | Alexandria, Egypt*
+
+Key Projects:
+- **Shamy-stores**: E-commerce platform with integrated payment gateways and inventory management
+- **Riders**: Developed real-time location tracking and route optimization for vehicle rentals
+- **Home-food**: Created user-friendly meal ordering and management system
+- **Decoopa**: E-commerce backend development
+- **Tawzef**: Built advanced job matching platform with scalable backend architecture
+- **Usedbrands**: E-commerce platform backend
+- **Hwaidak**: Hotel reservation system with real-time availability updates
+- **Elmatches**: Sports analytics application with player, referee, and team statistics
+
+### Freelance Backend Developer
+*February 2022 - Present*
+
+Notable Projects:
+- **MindScape**: Mental health therapy app with secure therapist-user communication
+- **Gaimez**: E-commerce platform for laptop and console skins
+- **The B Talk**: Doctor appointment booking platform
+- **MommyVerse**: Mobile app for new mothers, developed with Node.js, Nest.js, MongoDB, Prisma
+- **Lolfantasy**: eSports tournament scheduling platform
+- **Hospitalia**: Medical professional profile and clinic management system
+
+### Backend Developer at ArabyPlus
+*July 2023 - December 2023 | Remote*
+
+- Enhanced ERP system for operational efficiency
+- Developed scalable backend architectures
+- Implemented security protocols
+- Created custom business solutions
 
 ## 🛠️ Tech Stack
 
@@ -34,18 +64,17 @@ Passionate backend developer specializing in building scalable, secure, and high
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
-## 🌟 Specialties
+## 🌟 Core Competencies
 - Microservices Architecture
-- GraphQL & REST API Design
-- Real-time Communication (WebSockets)
+- API Design (REST & GraphQL)
+- Real-time Communication
 - Cloud-Native Development
+- Performance Optimization
+- Security Implementation
 
-## 🎮 Fun Facts
-- 🔗 Blockchain enthusiast
-- 🎲 Strategy game lover
-- 🛠️ Hardware tinkerer
+## 🎮 Personal Interests
+- 🔗 Blockchain Technology
+- 🎲 Strategy Gaming
+- 🛠️ Hardware Exploration
 
-## 📊 GitHub Stats
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical)
-
-**Let's connect and build something amazing together!** 🚀
+**Transforming ideas into robust, scalable backend solutions!** 🚀
