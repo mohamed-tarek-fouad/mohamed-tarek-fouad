@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I specialize in building scalable, secure, and performant backend systems. With expertise in multiple languages and frameworks, I design and implement backend architectures that solve real-world problems.
 
-![My Avatar]([https://www.linkedin.com/in/mohamed-tarek-fouad/overlay/background-image/](https://imgur.com/undefined))
+![My Avatar](https://i.imgur.com/fvY3zor.png)
 
 ## 🛠️ Technologies & Tools I Work With
 
