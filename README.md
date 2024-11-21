@@ -19,22 +19,22 @@
 *December 2023 - July 2024 | Alexandria, Egypt*
 
 Key Projects:
-- **Shamy-stores**: E-commerce platform with integrated payment gateways and inventory management
-- **Riders**: Developed real-time location tracking and route optimization for vehicle rentals
-- **Home-food**: Created user-friendly meal ordering and management system
-- **Decoopa**: E-commerce backend development
-- **Tawzef**: Built advanced job matching platform with scalable backend architecture
+- **Shamy-stores**: E-commerce platform with integrated payment gateways and inventory management https://shamystores.com/
+- **Riders**: Developed real-time location tracking and route optimization for vehicle rentals https://riders.sa/en
+- **Home-food**: Created user-friendly meal ordering and management system https://homefoodplus.app/
+- **Decoopa**: E-commerce backend development https://decoopa.com/
+- **Tawzef**: Built advanced job matching platform with scalable backend architecture https://tawzef.com/
 - **Usedbrands**: E-commerce platform backend
-- **Hwaidak**: Hotel reservation system with real-time availability updates
-- **Elmatches**: Sports analytics application with player, referee, and team statistics
+- **Hwaidak**: Hotel reservation system with real-time availability updates https://www.hwaidak-hotels.com/
+- **Elmatches**: Sports analytics application with player, referee, and team statistics https://elmatches.com/en
 
 ### Freelance Backend Developer
 *February 2022 - Present*
 
 Notable Projects:
-- **MindScape**: Mental health therapy app with secure therapist-user communication
+- **MindScape**: Mental health therapy app with secure therapist-user communication https://play.google.com/store/apps/details?id=com.mindscape.app&hl=en_NZ
 - **Gaimez**: E-commerce platform for laptop and console skins
-- **The B Talk**: Doctor appointment booking platform
+- **The B Talk**: Doctor appointment booking platform https://thebtalkofficial.com/
 - **MommyVerse**: Mobile app for new mothers, developed with Node.js, Nest.js, MongoDB, Prisma
 - **Lolfantasy**: eSports tournament scheduling platform
 - **Hospitalia**: Medical professional profile and clinic management system
@@ -47,6 +47,11 @@ Notable Projects:
 - Implemented security protocols
 - Created custom business solutions
 
+### Backend Developer at Skylink  
+*September 2022 - December 2023 | Remote*
+
+- Enhanced ERP system for operational efficiency
+- Developed scalable backend architectures https://www.skylink-eg.com/en
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
